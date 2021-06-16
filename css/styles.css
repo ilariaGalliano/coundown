@@ -1,0 +1,39 @@
+/*GENERAL STYLES*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(#ee999b 20%,#d780d4,#77acd4);
+}
+
+/**/
+h1{
+    text-align: center;
+    margin-top: 60px;
+    color: #1f3f8a;
+}
+input{
+    margin-top: 20px;
+    font-size: 28px;
+    color: #77acd4;
+    border-radius: 5px;
+}
+.birthday{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: #1f3f8a;
+    font-size: 24px;
+}
+.center{
+    text-align: center;
+}
+#app{
+    margin-top: 20px;
+    color: #1f3f8a;
+    font-size: 22px;
+}
